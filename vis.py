@@ -1,3 +1,10 @@
+import numpy as np
+
+import matplotlib.pyplot as plt
+from matplotlib import cm
+from mpl_toolkits.mplot3d import Axes3D
+
+
 def plot_bo(mu, sigma, x, y):
 
     Zmu = np.reshape(mu, (50, 50))
