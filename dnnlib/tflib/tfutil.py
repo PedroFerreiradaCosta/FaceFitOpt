@@ -10,7 +10,8 @@
 import os
 import numpy as np
 import tensorflow as tf
-
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 from typing import Any, Iterable, List, Union
 
 TfExpression = Union[tf.Tensor, tf.Variable, tf.Operation]
