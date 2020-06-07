@@ -24,6 +24,8 @@ import html
 import hashlib
 import glob
 import uuid
+import warnings
+warnings.simplefilter("ignore", category=PendingDeprecationWarning)
 
 from distutils.util import strtobool
 from typing import Any, List, Tuple, Union
