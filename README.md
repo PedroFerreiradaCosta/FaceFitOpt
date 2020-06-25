@@ -23,7 +23,9 @@ information about individual differences in face processing.
 
 ## Run our proof-of-concept online.
 [Click here to go to GUI shared with participants](https://colab.research.google.com/github/PedroFerreiradaCosta/FaceFitOpt/blob/master/FaceFitOpt_Github.ipynb)
+
 You will need a webcam to run the framework. For optimal results use as a browser Google Chrome.
+
 Please consider staring the repo if you found it interesting.
 
 
