@@ -1,6 +1,8 @@
 # Bayesian Optimization for real-time, automatic design of face stimuli in human-centred research
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/PedroFerreiradaCosta/FaceFitOpt/blob/master/LICENSE)
 
+![Paper Figure](./Figures/Figure2.png)
+
 Official script for the paper "Bayesian Optimization for real-time, automatic design of face stimuli in human-centred research".
 This work is dependent from code from the [stylegan](https://github.com/NVlabs/stylegan) and the [stylegan-encoder](https://github.com/Puzer/stylegan-encoder).
 
