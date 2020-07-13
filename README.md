@@ -4,6 +4,8 @@
 Official script for the paper "Bayesian Optimization for real-time, automatic design of face stimuli in human-centred research".
 This work is dependent from code from the [stylegan](https://github.com/NVlabs/stylegan) and the [stylegan-encoder](https://github.com/Puzer/stylegan-encoder).
 
+![Paper Figure](./Figures/Figure2.png)
+
 ## Abstract
 Investigating the cognitive and neural mechanisms involved with face processing is a fundamental
 task in modern neuroscience and psychology. To date, the majority of such studies
