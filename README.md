@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PedroFerreiradaCosta/FaceFitOpt/blob/master/FaceFitOpt_Github.ipynb#scrollTo=CO8OenmZGlZE) 
 [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/PedroFerreiradaCosta/FaceFitOpt/blob/master/FaceFitOpt_Github.ipynb)
 
-Official script for the paper "Bayesian Optimization for real-time, automatic design of face stimuli in human-centred research".
+Official script for the paper ["Bayesian Optimization for real-time, automatic design of face stimuli in human-centred research"](https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_58.pdf).
 This work is dependent from code from the [stylegan](https://github.com/NVlabs/stylegan) and the [stylegan-encoder](https://github.com/Puzer/stylegan-encoder).
 
 ![Paper Figure](./Figures/Figure2.png)
@@ -40,5 +40,4 @@ If you find this code useful for your research, please cite:
     year={2020},
     eprint={2007.09989},
     archivePrefix={arXiv},
-    primaryClass={cs.LG}
-}
+    primaryClass={cs.LG}}
