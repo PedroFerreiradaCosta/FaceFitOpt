@@ -34,6 +34,10 @@ Please consider staring the repo if you found it interesting.
 ## Citation
 If you find this code useful for your research, please cite:
 
-  @article{daelucidating,
-  title={Elucidating Cognitive Processes Using LSTMs},
-  author={da Costa, Pedro F and Popescu, Sebastian and Leech, Robert and Lorenz, Romy}}
+    @misc{costa2020bayesian,
+    title={Bayesian optimization for automatic design of face stimuli},
+    author={Pedro F. da Costa and Romy Lorenz and Ricardo Pio Monti and Emily Jones and Robert Leech},
+    year={2020},
+    eprint={2007.09989},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}}
